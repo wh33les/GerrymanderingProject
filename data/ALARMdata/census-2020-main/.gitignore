@@ -1,0 +1,19 @@
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+
+data-raw/
+
+# misc
+*.bak
+*.swp
+
+*.shp
+*.shx
+*.dbf
+*.cpg
+*.prj
+*.sbn
+*.sbx
