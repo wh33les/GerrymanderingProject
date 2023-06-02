@@ -1,0 +1,738 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: United States Department of Commerce, United States Census Bureau (Data creator)
+      Originator: Indiana Geological Survey (Data processor)
+      Originator: Chris Dintaman (Data processor)
+      Publication_Date: 20130103
+      Title:
+        CONGRESS_DISTRICTS_113TH_USCB_IN: Indiana Districts and Representatives for the 113th Congress (United States Census
+        Bureau, 1:500,000, Polygon Shapefile)
+      Geospatial_Data_Presentation_Form: Vector digital data
+      Publication_Information:
+        Publication_Place: Bloomington, Indiana
+        Publisher: Indiana Geological Survey (IGS)
+      Other_Citation_Details:
+        CONGRESS_DISTRICTS_113TH_USCB_IN.SHP was derived by modification of a preexisting shapefile named REDISTRICTING_INDIANA_CONGRESSIONAL_DISTRICTS.SHP.
+        The redistricted boundaries were provided to the Indiana Geological Survey (IGS) by the Indiana Election Division (IED) in May, 2011.
+        The redistricted boundaries are the new U.S. Congressional Districts for Indiana for 2011 through 2021.
+
+        Personnel of the IGS added the names and contact information for each of Indiana's nine representatives for the 113th U.S Congress to this dataset.
+        The information was obtained from the official Web sites for each representative, which were obtained from http://www.govtrack.us/congress/members/IN
+
+      Online_Linkage: http://maps.indiana.edu/layerGallery.html
+  Description:
+    Abstract:
+      This data set shows the newly redistricted boundaries (adopted in May 2011) of Indiana's nine districts for the 113th U.S. Congress and provides
+      the name, party affiliation, and additional contact information for each of the representatives.
+
+      NOTE: Redistricting of all Indiana legislative boundaries were adopted in May 2011, and will be used from 2011 through 2021.
+      Republicans who controlled the Indiana House and Senate from the 117th General Assembly oversaw the drawing of new maps in the Spring of 2011 for all 100
+      state house and 50 state senate districts and Indiana's nine congressional seats. New political districts are drawn every 10 years to incorporate information
+      from the latest U.S. Census.
+    Purpose: CONGRESS_DISTRICTS_113TH_USCB_IN.SHP was created to provide a GIS data layer of the Indiana districts of the 113th congress.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 20130103
+    Currentness_Reference: Publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -88.0972
+      East_Bounding_Coordinate: -84.6884
+      North_Bounding_Coordinate: 41.7734
+      South_Bounding_Coordinate: 37.7606
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: IGS Metadata Keyword Thesaurus
+      Theme_Keyword: Indiana Geological Survey (IGS)
+      Theme_Keyword: geographic information system (GIS)
+      Theme_Keyword: United States Department of Commerce
+      Theme_Keyword: United States Census Bureau (USCB)
+      Theme_Keyword: Indiana Election Division (IED)
+      Theme_Keyword: congress district (CD)
+      Theme_Keyword: redistricted
+      Theme_Keyword: 113th Congress
+      Theme_Keyword: polygon
+      Theme_Keyword: congress
+      Theme_Keyword: vector
+    Theme:
+      Theme_Keyword_Thesaurus: Geography Network Keyword Thesaurus
+      Theme_Keyword: boundaries
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Indiana
+      Place_Keyword: Adams County
+      Place_Keyword: Allen County
+      Place_Keyword: Bartholomew County
+      Place_Keyword: Benton County
+      Place_Keyword: Blackford County
+      Place_Keyword: Boone County
+      Place_Keyword: Brown County
+      Place_Keyword: Carroll County
+      Place_Keyword: Cass County
+      Place_Keyword: Clark County
+      Place_Keyword: Clay County
+      Place_Keyword: Clinton County
+      Place_Keyword: Crawford County
+      Place_Keyword: Daviess County
+      Place_Keyword: Dearborn County
+      Place_Keyword: Decatur County
+      Place_Keyword: DeKalb County
+      Place_Keyword: Delaware County
+      Place_Keyword: Dubois County
+      Place_Keyword: Elkhart County
+      Place_Keyword: Fayette County
+      Place_Keyword: Floyd County
+      Place_Keyword: Fountain County
+      Place_Keyword: Franklin County
+      Place_Keyword: Fulton County
+      Place_Keyword: Gibson County
+      Place_Keyword: Grant County
+      Place_Keyword: Greene County
+      Place_Keyword: Hamilton County
+      Place_Keyword: Hancock County
+      Place_Keyword: Harrison County
+      Place_Keyword: Hendricks County
+      Place_Keyword: Henry County
+      Place_Keyword: Howard County
+      Place_Keyword: Huntington County
+      Place_Keyword: Jackson County
+      Place_Keyword: Jasper County
+      Place_Keyword: Jay County
+      Place_Keyword: Jefferson County
+      Place_Keyword: Jennings County
+      Place_Keyword: Johnson County
+      Place_Keyword: Knox County
+      Place_Keyword: Kosciusko County
+      Place_Keyword: Lagrange County
+      Place_Keyword: Lake County
+      Place_Keyword: LaPorte County
+      Place_Keyword: Lawrence County
+      Place_Keyword: Madison County
+      Place_Keyword: Marion County
+      Place_Keyword: Marshall County
+      Place_Keyword: Martin County
+      Place_Keyword: Miami County
+      Place_Keyword: Monroe County
+      Place_Keyword: Montgomery County
+      Place_Keyword: Morgan County
+      Place_Keyword: Newton County
+      Place_Keyword: Noble County
+      Place_Keyword: Ohio County
+      Place_Keyword: Orange County
+      Place_Keyword: Owen County
+      Place_Keyword: Parke County
+      Place_Keyword: Perry County
+      Place_Keyword: Pike County
+      Place_Keyword: Porter County
+      Place_Keyword: Posey County
+      Place_Keyword: Pulaski County
+      Place_Keyword: Putnam County
+      Place_Keyword: Randolph County
+      Place_Keyword: Ripley County
+      Place_Keyword: Rush County
+      Place_Keyword: Scott County
+      Place_Keyword: Shelby County
+      Place_Keyword: Spencer County
+      Place_Keyword: St Joseph County
+      Place_Keyword: Starke County
+      Place_Keyword: Steuben County
+      Place_Keyword: Sullivan County
+      Place_Keyword: Switzerland County
+      Place_Keyword: Tippecanoe County
+      Place_Keyword: Tipton County
+      Place_Keyword: Union County
+      Place_Keyword: Vanderburgh County
+      Place_Keyword: Vermillion County
+      Place_Keyword: Vigo County
+      Place_Keyword: Wabash County
+      Place_Keyword: Warren County
+      Place_Keyword: Warrick County
+      Place_Keyword: Washington County
+      Place_Keyword: Wayne County
+      Place_Keyword: Wells County
+      Place_Keyword: White County
+      Place_Keyword: Whitley County
+  Access_Constraints:
+    This file is available to anyone, but access may be contingent on written request, specific terms
+    relevant to the agency or person making the request, and/or current freedom of information statutes
+    in the state of Indiana.
+  Use_Constraints:
+    DATA DISCLAIMER
+
+    This data set was compiled by Indiana University, Indiana Geological Survey, using data believed to
+    be accurate; however, a degree of error is inherent in all data. This product is distributed "AS-IS"
+    without warranties of any kind, either expressed or implied, including but not limited to warranties
+    of suitability to a particular purpose or use. No attempt has been made in either the design or
+    production of these data to define the limits or jurisdiction of any federal, state, or local government.
+    These data are intended for use only at the published scale or smaller and are for reference purposes only.
+    They are not to be construed as a legal document or survey instrument. A detailed on-the-ground survey and
+    historical analysis of a single site may differ from these data.
+
+    COPYRIGHT 2013, THE TRUSTEES OF INDIANA UNIVERSITY, INDIANA GEOLOGICAL SURVEY, ALL RIGHTS RESERVED
+
+    The information on these media is proprietary to Indiana University, Indiana Geological Survey. Any copying,
+    adaptation, distribution, public performance, or public display of this information without the express written
+    consent of Indiana University, Indiana Geological Survey is discouraged.
+
+    CREDIT
+
+    It is requested that the Indiana Geological Survey be cited in any products generated from this data. The
+    following source citation should be included: [CONGRESS_DISTRICTS_113TH_USCB_IN: Indiana Districts and
+    Representatives for the 113th Congress (United States Census Bureau, 1:500,000, Polygon Shapefile), digital
+    representation by Chris Dintaman, 2013.]
+
+    WARRANTY
+
+    Indiana University, Indiana Geological Survey warrants that the media on which this product is stored will be
+    free from defect in materials and workmanship for ninety (90) days from the date of acquisition. If such a defect
+    is found, return the media to Publication Sales, Indiana Geological Survey, 611 North Walnut Grove, Bloomington,
+    Indiana 47405 2208, and it will be replaced free of charge.
+
+    LIMITATION OF WARRANTIES AND LIABILITY
+
+    Except for the expressed warranty above, the product is provided "AS IS", without any other warranties or
+    conditions, expressed or implied, including, but not limited to, warranties for product quality, or suitability
+    to a particular purpose or use. The risk or liability resulting from the use of this product is assumed by the
+    user. Indiana University, Indiana Geological Survey shares no liability with product users indirect, incidental,
+    special, or consequential damages whatsoever, including, but not limited to, loss of revenue or profit, lost or
+    damaged data or other commercial or economic loss. Indiana University, Indiana Geological Survey is not responsible
+    for claims by a third party. The maximum aggregate liability to the original purchaser shall not exceed the amount
+    paid by you for the product.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Indiana Election Division
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 302 West Washington Street (E204)
+        City: Indianapolis
+        State_or_Province: Indiana
+        Postal_Code: 46204
+        Country: USA
+      Contact_Voice_Telephone: 317 232 3938
+      Contact_Electronic_Mail_Address: lclark@iec.in.gov
+      Hours_of_Service: 0800 to 1700 Eastern Standard Time
+      Contact_Instructions: Monday through Friday, except holidays
+  Native_Data_Set_Environment: Windows 7 Enterprise operating system; ESRI ArcGIS 10.0 shapefile; 120 Kb
+
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: The attributes were derived from the official Web sites of each Representative, and are assumed to be correct.
+  Logical_Consistency_Report: No checks for logical consistency were made.
+  Completeness_Report: This data set provides the 113th U.S. Congressional District boundaries for Indiana, and is assumed to be complete.
+
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: No information was provided by the U.S. Census Bureau pertaining to the horizontal positional accuracy of the source data.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: The vertical positional accuracy was not a factor in the production of this data.
+
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Indiana Election Division
+          Publication_Date: 20110608
+          Title: REDISTRICTED_INDIANA_CONGRESSIONAL_DISTRICTS_2011_IED.SHP
+          Edition: 1.0
+          Geospatial_Data_Presentation_Form: Vector digital data
+          Publication_Information:
+            Publication_Place: Indianapolis, Indiana
+            Publisher: Indiana Election Division
+          Other_Citation_Details: None
+          Online_Linkage: None
+      Type_of_Source_Media: Vector digital data
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 2011
+            Ending_Date: 2021
+        Source_Currentness_Reference: Publication date
+      Source_Citation_Abbreviation: REDISTRICTED_INDIANA_CONGRESSIONAL_DISTRICTS_2011_IED.SHP
+      Source_Contribution: All redistricted district boundaries for U.S. Congressional Districts in Indiana, adopted in 2011 (good until 2021)
+
+    Process_Step:
+      Process_Description:
+        CD18_108_SHP.ZIP was downloaded from the USCB and unzipped.
+        ESRI ArcToolBox "Define Projection Wizard" was then used on CD18_108.SHP to define the projection provided, which was Geographic
+        (Lat/Long) NAD83. ESRI ArcToolBox "Project Wizard" was then used to reproject to UTM Zone 16, NAD83, and the output shapefile
+        was named CONGRESS_DISTRICTS_108TH_USCB_IN.SHP. ESRI ArcMap was then used to edit the shapefile, and the following fields were
+        dropped from the attribute table: "Area," "Perimeter," "CD18_108_," "CD18_108_I," "State," "LSAD," "LSAD_TRANS," and "NAME."
+
+        The following fields were then added to CONGRESS_DISTRICTS_108TH_USCB_IN.SHP: "Representa," "Party," "Web_Site," "E_Mail,"
+        "1_Address," "1_CityZip," "1_Phone," "1_Fax," "2_Address," "2_CityZip," "2_Phone," "2_Fax," "3_Address," "3_CityZip," "3_Phone,"
+        "3_Fax," "4_Address," "4_CityZip," "4_Phone," and "4_Fax." These fields were populated with data found at the following
+        URL:
+        http://www.iauw.org/capitolsteps/IndianaCongressionalDelegation.htm
+      Source_Used_Citation_Abbreviation: CD18_108_SHP.ZIP
+      Source_Used_Citation_Abbreviation: CD18_108.SHP
+      Source_Produced_Citation_Abbreviation: CONGRESS_DISTRICTS_108TH_USCB_IN.SHP
+      Process_Date: 20040604
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Organization: Indiana Geological Survey
+            Contact_Person: Chris Dintaman
+          Contact_Position: Geologist/GIS Specialist
+          Contact_Address:
+            Address_Type: Mailing and physical address
+            Address: 611 North Walnut Grove
+            City: Bloomington
+            State_or_Province: Indiana
+            Postal_Code: 47405 2208
+            Country: USA
+          Contact_Voice_Telephone: 812 856 5654
+          Contact_Facsimile_Telephone: 812 855 2862
+          Contact_Electronic_Mail_Address: cdintama@indiana.edu
+          Hours_of_Service: 0800 to 1700 Eastern Standard Time
+          Contact_Instructions: Monday through Friday, except holidays
+
+    Process_Step:
+      Process_Description:
+        The shapefile named "CONGRESS_DISTRICTS_108TH_USCB_IN.SHP" was opened in ESRI ArcView, and the "Convert to Shapefile"
+        tool was used to create a copy named "CONGRESS_DISTRICTS_109TH_USCB_IN.SHP." The attributes of the shapefile for
+        CONGRESS_DISTRICTS_109TH_USCB_IN was then edited in ESRI ArcView to reflect changes between the 108th and 109th Congresses.
+
+        The information listed for Mike Sodrel (newly elected to the 109th Congress) was obtained
+        from the following URL:
+
+        http://www.house.gov/sodrel/
+
+      Source_Used_Citation_Abbreviation: CONGRESS_DISTRICTS_108TH_USCB_IN.SHP
+      Source_Produced_Citation_Abbreviation: CONGRESS_DISTRICTS_109TH_USCB_IN.SHP
+      Process_Date: 20050105
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Organization: Indiana Geological Survey
+            Contact_Person: Denver Harper
+          Contact_Position: Geologist/GIS Specialist
+          Contact_Address:
+            Address_Type: Mailing and physical address
+            Address: 611 North Walnut Grove
+            City: Bloomington
+            State_or_Province: Indiana
+            Postal_Code: 47405 2208
+            Country: USA
+          Contact_Voice_Telephone: 812 855 1369
+          Contact_Facsimile_Telephone: 812 855 2862
+          Contact_Electronic_Mail_Address: dharper@indiana.edu
+          Hours_of_Service: 0800 to 1700 Eastern Standard Time
+          Contact_Instructions: Monday through Friday, except holidays
+
+    Process_Step:
+      Process_Description:
+        The shapefile named "CONGRESS_DISTRICTS_109TH_USCB_IN.SHP" was opened in ESRI ArcView, and the "Convert to Shapefile"
+        tool was used to create a copy named "CONGRESS_DISTRICTS_110TH_USCB_IN.SHP." The attributes of the shapefile for
+        CONGRESS_DISTRICTS_110TH_USCB_IN was then edited in ESRI ArcView to reflect changes between the 109th and 110th Congresses.
+
+        The information listed for Joe Donnelly, Brad Ellsworth and Baron Hill (newly elected to the 110th Congress) was obtained
+        from the following URL:
+
+        http://www.house.gov/
+
+      Source_Used_Citation_Abbreviation: CONGRESS_DISTRICTS_109TH_USCB_IN.SHP
+      Source_Produced_Citation_Abbreviation: CONGRESS_DISTRICTS_110TH_USCB_IN.SHP
+      Process_Date: 20070116
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Organization: Indiana Geological Survey
+            Contact_Person: Chris Dintaman
+          Contact_Position: Geologist/GIS Specialist
+          Contact_Address:
+            Address_Type: Mailing and physical address
+            Address: 611 North Walnut Grove
+            City: Bloomington
+            State_or_Province: Indiana
+            Postal_Code: 47405 2208
+            Country: USA
+          Contact_Voice_Telephone: 812 856 5654
+          Contact_Facsimile_Telephone: 812 855 2862
+          Contact_Electronic_Mail_Address: cdintama@indiana.edu
+          Hours_of_Service: 0800 to 1700 Eastern Standard Time
+          Contact_Instructions: Monday through Friday, except holidays
+
+    Process_Step:
+      Process_Description:
+        A copy of the shapefile named "CONGRESS_DISTRICTS_110TH_USCB_IN.SHP" was opened in ESRI ArcMap. The attributes of the shapefile for
+        CONGRESS_DISTRICTS_110TH_USCB_IN was then edited in ESRI ArcMap to reflect changes between the 110th and 111th Congresses. The
+        updated shapefile was then renamed to "CONGRESS_DISTRICTS_111TH_USCB_IN.SHP".
+
+        The information listed for Andre Carson (newly elected to the 111th Congress) was obtained from the following URL:
+
+        http://carson.house.gov/
+
+      Source_Used_Citation_Abbreviation: CONGRESS_DISTRICTS_110TH_USCB_IN.SHP
+      Source_Produced_Citation_Abbreviation: CONGRESS_DISTRICTS_111TH_USCB_IN.SHP
+      Process_Date: 20090225
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Organization: Indiana Geological Survey
+            Contact_Person: Chris Dintaman
+          Contact_Position: Geologist/GIS Specialist
+          Contact_Address:
+            Address_Type: Mailing and physical address
+            Address: 611 North Walnut Grove
+            City: Bloomington
+            State_or_Province: Indiana
+            Postal_Code: 47405 2208
+            Country: USA
+          Contact_Voice_Telephone: 812 856 5654
+          Contact_Facsimile_Telephone: 812 855 2862
+          Contact_Electronic_Mail_Address: cdintama@indiana.edu
+          Hours_of_Service: 0800 to 1700 Eastern Standard Time
+          Contact_Instructions: Monday through Friday, except holidays
+
+    Process_Step:
+      Process_Description:
+        A copy of the shapefile named "CONGRESS_DISTRICTS_111TH_USCB_IN.SHP" was opened in ESRI ArcMap. The attributes of the shapefile for
+        CONGRESS_DISTRICTS_111TH_USCB_IN was then edited in ESRI ArcMap to reflect changes between the 111th and 112th Congresses. The
+        updated shapefile was then renamed to "CONGRESS_DISTRICTS_112TH_USCB_IN.SHP".
+
+        The information listed for Todd Rokita (newly elected to the 112th Congress) was obtained from the following URL:
+
+        http://rokita.house.gov/
+
+        The information listed for Todd Young (newly elected to the 112th Congress) was obtained from the following URL:
+
+        http://toddyoung.house.gov/
+
+        The information listed for Larry Bucshon (newly elected to the 112th Congress) was obtained from the following URL:
+
+        http://bucshon.house.gov/
+
+        The information listed for Marlin Stutzman (newly elected to the 112th Congress) was obtained from the following URL:
+
+        http://stutzman.house.gov/
+
+      Source_Used_Citation_Abbreviation: CONGRESS_DISTRICTS_111TH_USCB_IN.SHP
+      Source_Produced_Citation_Abbreviation: CONGRESS_DISTRICTS_112TH_USCB_IN.SHP
+      Process_Date: 2010105
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Organization: Indiana Geological Survey
+            Contact_Person: Denver Harper
+          Contact_Position: Geologist/GIS Specialist
+          Contact_Address:
+            Address_Type: Mailing and physical address
+            Address: 611 North Walnut Grove
+            City: Bloomington
+            State_or_Province: Indiana
+            Postal_Code: 47405 2208
+            Country: USA
+          Contact_Voice_Telephone: 812 855 1369
+          Contact_Facsimile_Telephone: 812 855 2862
+          Contact_Electronic_Mail_Address: dharper@indiana.edu
+          Hours_of_Service: 0800 to 1700 Eastern Standard Time
+          Contact_Instructions: Monday through Friday, except holidays
+
+    Process_Step:
+      Process_Description:
+        REDISTRICTED_INDIANA_CONGRESSIONAL_DISTRICTS_2011_IED.SHP was opened in ESRI ArcGIS 10.1 and each legislative district boundary
+        was attributed with the name and party affiliation of the legislator for the 113th U.S. Congress. This information was obtained
+        from the offical web site for each elected Representative, which were obtained from ( http://www.govtrack.us/congress/members/IN ).
+        The shapfile was then renamed to CONGRESS_DISTRICTS_113th_USCB_IN.SHP.
+      Source_Used_Citation_Abbreviation: REDISTRICTED_INDIANA_CONGRESSIONAL_DISTRICTS_2011_IED.SHP
+      Process_Date: 20130113
+      Source_Produced_Citation_Abbreviation: CONGRESS_DISTRICTS_113th_USCB_IN.SHP
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Indiana Geological Survey
+            Contact_Person: Chris Dintaman
+          Contact_Position: Geologist
+          Contact_Address:
+            Address_Type: Mailing and physical address
+            Address: 611 North Walnut Grove Ave
+            City: Bloomington
+            State_or_Province: Indiana
+            Postal_Code: 47405 2208
+            Country: USA
+          Contact_Voice_Telephone: 812 856 5654
+          Contact_Facsimile_Telephone: 812 855 2862
+          Contact_Electronic_Mail_Address: cdintama@indiana.edu
+          Hours_of_Service: 0800 to 1700 Eastern Standard Time
+          Contact_Instructions: Monday through Friday, except holidays
+
+    Process_Step:
+      Process_Description:
+        This metadata file was pre-parsed and parsed using CNS (Chew and Spit, v. 2.6.1) and MP (Metadata
+        Parser, v. 2.7.1) software written by Peter N. Schweitzer (U.S. Geological Survey). The errors generated
+        by MP were all addressed and corrected, except that no values were assigned to "Abscissa_Resolution"
+        and "Ordinate_Resolution."
+      Process_Date: 20130204
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Indiana Geological Survey
+            Contact_Person: Chris Dintaman
+          Contact_Position: Geologist
+          Contact_Address:
+            Address_Type: Mailing and physical address
+            Address: 611 North Walnut Grove Ave
+            City: Bloomington
+            State_or_Province: Indiana
+            Postal_Code: 47405 2208
+            Country: USA
+          Contact_Voice_Telephone: 812 856 5654
+          Contact_Facsimile_Telephone: 812 855 2862
+          Contact_Electronic_Mail_Address: cdintama@indiana.edu
+          Hours_of_Service: 0800 to 1700 Eastern Standard Time
+          Contact_Instructions: Monday through Friday, except holidays
+
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference: Indiana
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 9
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: Universal Transverse Mercator
+        Universal_Transverse_Mercator:
+          UTM_Zone_Number: 16
+          Transverse_Mercator:
+            Scale_Factor_at_Central_Meridian: 0.999600
+            Longitude_of_Central_Meridian: -87.000000
+            Latitude_of_Projection_Origin: 0.000000
+            False_Easting: 500000.000000
+            False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: Coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution:
+          Ordinate_Resolution:
+        Planar_Distance_Units: Meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: GRS 80
+      Semi-major_Axis: 6378137.0000000
+      Denominator_of_Flattening_Ratio: 298.26
+
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: CONGRESS_DISTRICTS_113TH_USCB_IN.dbf
+      Entity_Type_Definition: Shapefile Attribute Table
+      Entity_Type_Definition_Source: None
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Feature identification number
+      Attribute_Definition_Source: Software generated
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Software computed
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Polygon
+      Attribute_Definition_Source: Software generated
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Software computed
+    Attribute:
+      Attribute_Label: District_N
+      Attribute_Definition: Congressional District Number
+      Attribute_Definition_Source: U.S. Census Bureau
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: 2-digit numeric value
+    Attribute:
+      Attribute_Label: Representa
+      Attribute_Definition: Name of representative
+      Attribute_Definition_Source: IGS personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: text
+    Attribute:
+      Attribute_Label: Party
+      Attribute_Definition: Political party of representative
+      Attribute_Definition_Source: IGS personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Democrat or Republican
+    Attribute:
+      Attribute_Label: Web_Site
+      Attribute_Definition: URL for representatives Web site
+      Attribute_Definition_Source: IGS personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Text
+    Attribute:
+      Attribute_Label: 1_Address
+      Attribute_Definition: (Washington, D.C.) mailing address for representative
+      Attribute_Definition_Source: IGS personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Text
+    Attribute:
+      Attribute_Label: 1_CityZip
+      Attribute_Definition: (Washington, D.C.) City and Zip code for representative
+      Attribute_Definition_Source: IGS personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Washington, D.C. and Zip code
+    Attribute:
+      Attribute_Label: 1_Phone
+      Attribute_Definition: (Washington, D.C.) Area code and phone number of representative
+      Attribute_Definition_Source: IGS personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Area code and phone number
+    Attribute:
+      Attribute_Label: 1_Fax
+      Attribute_Definition: (Washington, D.C.) Area code and fax number of representative
+      Attribute_Definition_Source: IGS personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Area code and fax number
+    Attribute:
+      Attribute_Label: 2_Address
+      Attribute_Definition: (Indiana, 1st office) mailing address for representative
+      Attribute_Definition_Source: IGS Personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Text
+    Attribute:
+      Attribute_Label: 2_CityZip
+      Attribute_Definition: (Indiana, 1st office) City and Zip code for representative
+      Attribute_Definition_Source: IGS personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Indiana city and Zip code
+    Attribute:
+      Attribute_Label: 2_Phone
+      Attribute_Definition: (Indiana, 1st office) Area code and phone number of representative
+      Attribute_Definition_Source: IGS personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Area code and phone number
+    Attribute:
+      Attribute_Label: 2_Fax
+      Attribute_Definition: (Indiana, 1st office) Area code and fax number of representative
+      Attribute_Definition_Source: IGS personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Area code and fax number
+    Attribute:
+      Attribute_Label: 3_Address
+      Attribute_Definition: (Indiana, 2nd office) mailing address for representative
+      Attribute_Definition_Source: IGS personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Text
+    Attribute:
+      Attribute_Label: 3_CityZip
+      Attribute_Definition: (Indiana, 2nd office) city and Zip code for representative
+      Attribute_Definition_Source: IGS personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Indiana city and Zip code
+    Attribute:
+      Attribute_Label: 3_Phone
+      Attribute_Definition: (Indiana, 2nd office) Area code and phone number of representative
+      Attribute_Definition_Source: IGS personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Area code and phone number
+    Attribute:
+      Attribute_Label: 3_Fax
+      Attribute_Definition: (Indiana, 2nd office) Area code and fax number of representative
+      Attribute_Definition_Source: IGS personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Area code and fax number
+    Attribute:
+      Attribute_Label: 4_Address
+      Attribute_Definition: (Indiana, 3rd office) mailing address for representative
+      Attribute_Definition_Source: IGS personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Text
+    Attribute:
+      Attribute_Label: 4_CityZip
+      Attribute_Definition: (Indiana, 3rd office) city and Zip code for representative
+      Attribute_Definition_Source: IGS personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Indiana city and Zip code
+    Attribute:
+      Attribute_Label: 4_Phone
+      Attribute_Definition: (Indiana, 3rd office) Area code and phone number of representative
+      Attribute_Definition_Source: IGS personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Area code and phone number
+    Attribute:
+      Attribute_Label: 4_Fax
+      Attribute_Definition: (Indiana, 3rd office) Area code and fax number of representative
+      Attribute_Definition_Source: IGS personnel
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Area code and fax number
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Indiana Geological Survey
+        Contact_Person: Publication Sales
+      Contact_Position: Clerk
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 611 North Walnut Grove
+        City: Bloomington
+        State_or_Province: Indiana
+        Postal_Code: 47405 2208
+        Country: USA
+      Contact_Voice_Telephone: 812 855 7636
+      Contact_Facsimile_Telephone: 812 855 2862
+      Contact_Electronic_Mail_Address: IGSinfo@indiana.edu
+      Hours_of_Service: 0800 to 1700 Eastern Standard Time
+      Contact_Instructions: Monday through Friday, except holidays
+
+  Resource_Description: Downloadable data
+
+  Distribution_Liability:
+    CREDIT:
+
+    It is requested that the Indiana Geological Survey be cited in any products generated from this data. The
+    following source citation should be included: [CONGRESS_DISTRICTS_113TH_USCB_IN: Indiana Districts and
+    Representatives for the 113th Congress (United States Census Bureau, 1:500,000, Polygon Shapefile), digital
+    representation by Chris Dintaman, 2013.]
+
+    WARRANTY:
+
+    Indiana University, Indiana Geological Survey warrants that the media on which this product is stored will be
+    free from defect in materials and workmanship for ninety (90) days from the date of acquisition. If such a defect
+    is found, return the media to Publication Sales, Indiana Geological Survey, 611 North Walnut Grove, Bloomington,
+    Indiana 47405 2208, and it will be replaced free of charge.
+
+    LIMITATION OF WARRANTIES AND LIABILITY:
+
+    Except for the expressed warranty above, the product is provided "AS IS", without any other warranties or
+    conditions, expressed or implied, including, but not limited to, warranties for product quality, or suitability
+    to a particular purpose or use. The risk or liability resulting from the use of this product is assumed by the
+    user. Indiana University, Indiana Geological Survey shares no liability with product users indirect, incidental,
+    special, or consequential damages whatsoever, including, but not limited to, loss of revenue or profit, lost or
+    damaged data or other commercial or economic loss. Indiana University, Indiana Geological Survey is not responsible
+    for claims by a third party. The maximum aggregate liability to the original purchaser shall not exceed the amount
+    paid by you for the product.
+
+Metadata_Reference_Information:
+  Metadata_Date: 20130103
+  Metadata_Review_Date: 20130204
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Indiana Geological Survey
+        Contact_Person: Chris Dintaman
+      Contact_Position: Geologist
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 611 North Walnut Grove Ave
+        City: Bloomington
+        State_or_Province: Indiana
+        Postal_Code: 47405 2208
+        Country: USA
+      Contact_Voice_Telephone: 812 856 5654
+      Contact_Facsimile_Telephone: 812 855 2862
+      Contact_Electronic_Mail_Address: cdintama@indiana.edu
+      Hours_of_Service: 0800 to 1700 Eastern Standard Time
+      Contact_Instructions: Monday through Friday, except holidays
+  Metadata_Standard_Name: FGDC-CSDGM
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints:
+    This metadata file is intended to accompany the data set identified and received from the IGS. It is not to be altered or
+    summarized. IGS does not support secondary distribution. If this data set was received from anyone other than the IGS,
+    this metadata file and the data set it describes may lack integrity.
